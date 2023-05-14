@@ -1,0 +1,36 @@
+Scientific Calculator
+--------------------
+1. Square root
+2. Exponential
+3. Logarithm
+4. Sine
+5. Cosine
+6. Tangent
+Enter your choice: 1
+Enter a number: 25
+Square root of 25.00 = 5.00
+
+
+Scientific Calculator
+--------------------
+1. Square root
+2. Exponential
+3. Logarithm
+4. Sine
+5. Cosine
+6. Tangent
+Enter your choice: 3
+Enter a number: 10
+Logarithm of 10.00 = 2.30
+
+Scientific Calculator
+--------------------
+1. Square root
+2. Exponential
+3. Logarithm
+4. Sine
+5. Cosine
+6. Tangent
+Enter your choice: 4
+Enter a number: 45
+Sine of 45.00 = 0.71
